@@ -1,6 +1,8 @@
 # beard-difficulty-menu
 
-## The beard menu will standardize the difficulty of eating particular meal items. Now instead of making your own beard difficulty rating there will be an agreed upon standard. And feel higher affirmation on your choices.
+## The beard menu will standardize the difficulty of eating particular meal items. 
+Now instead of making your own beard difficulty rating there will be an agreed upon standard. 
+<br/>Feel higher affirmation on your choices.
 
 ## Reasons people will consider beard menu. Comment here: #1
 1) If you are on a date with a female beard menu can help you be conservative.

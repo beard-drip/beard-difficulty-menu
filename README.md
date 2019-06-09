@@ -1,6 +1,6 @@
 # beard-difficulty-menu
 
-The beard menu will standardize the difficulty of eating meal items with a beard. 
+Standardize the difficulty of eating meal items with a beard. 
 <br/>Now instead of making your own beard difficulty rating there will be an agreed upon standard. 
 <br/>Feel higher affirmation on your choices.
 

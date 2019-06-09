@@ -1,4 +1,4 @@
-# beard-difficulty-menu
+# Beard-difficulty-menu
 
 Standardize the difficulty of eating meal items with a beard. 
 <br/>Now instead of making your own beard difficulty rating there will be an agreed upon standard. 

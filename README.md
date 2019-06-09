@@ -4,7 +4,7 @@ Standardize the difficulty of eating meal items with a beard.
 <br/>Now instead of making your own beard difficulty rating there will be an agreed upon standard. 
 <br/>Feel higher affirmation on your choices.
 
-## Reasons people will consider beard menu. Comment here: #1
+## Reasons people will consider beard menu. Comment here: [#1](https://github.com/beard-drip/beard-difficulty-menu/issues/1)
 1) If you are on a date with a female beard menu can help you be conservative.
 2) If the beard rating is 8 or higher you may find the challenge enjoyable.
 3) Number of napkins used is proportional to beard difficulty rating.
